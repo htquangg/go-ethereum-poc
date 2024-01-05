@@ -1,0 +1,10 @@
+blockchain:
+  http: https://polygon-mumbai.g.alchemy.com/v2/xlHSR****************msbNuQj
+  ws: ws://polygon-mumbai.g.alchemy.com/v2/xlHSR***********************sbNuQj
+  pk: 85e2*****************************************************74fc071
+
+contract:
+  address: 0xF8*****************************88e
+  gas_limit: 3000000
+  gas_price: 1000000
+  wei_founds: 0
