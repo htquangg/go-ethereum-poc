@@ -1,7 +1,6 @@
 package config
 
 import (
-	"fmt"
 	"strings"
 
 	"github.com/spf13/cobra"
@@ -72,8 +71,6 @@ func Setup(cmd *cobra.Command, _ []string) error {
 	if err != nil {
 		return err
 	}
-
-	fmt.Println(App.Blockchain.PrivateKey)
 
 	return nil
 }

@@ -137,5 +137,6 @@ log.txt
 # VSCode config
 .vscode/
 
+config/config.yaml
 config/*.config.yaml
 !config/example.config.yaml
